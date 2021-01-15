@@ -1,7 +1,8 @@
 # Cardshop
 
 
-## MVP
+## MVP - (currently in progress)
+
 https://docs.google.com/document/d/1h-upuQSj7RXyFsziMHCmgpDgTaih6x177TZo66HH-G0/edit?usp=sharing
 
 ### `npm start`
